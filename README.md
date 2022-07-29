@@ -32,7 +32,7 @@ The other schools were not negatively affected by the database modifications. Wh
 
 _Original Data Base_
 
-<img width="784" alt="original_perschool_summary" src="https://user-images.githubusercontent.com/107893200/181680331-8d715a58-5268-49c2-a78f-6b81f942deca.png">
+<img width="997" alt="original_perschool" src="https://user-images.githubusercontent.com/107893200/181684543-4153ec15-4bb0-441a-b0a9-6756e2638dd4.png">
 
 
 _Updated Data Base_
@@ -57,7 +57,7 @@ With the updated information these are the top three high schools in each catego
     - % Overall Passing: Cabrera High School 91.33%, Griffin High School 90.59% and Pena High School 90.54%
     
     
-In the original database Thomas High School was only among the top schools in the Overall Passing category. After the update of the data, its Overall Passing percentage dropped and its %Passing reading increased. 
+In the original database Thomas High School was among the top schools in the Overall Passing category and in %Passing Reading category. After data updated, its Overall Passing percentage and its %Passing reading decreased. 
 
 
 _Original Data Base_
@@ -133,7 +133,8 @@ _Updated Data Base_
 
 Following the review of the information presented previously, here is a summary of four changes in the school district's updated analysis after reading and math scores for ninth grade at Thomas High School have been replaced by NaNs.
 
-1. d
-2. d
-3. d
-4. d
+1. In the analyses by school type, school size, and school spending, there were no drastic changes in the percentages of the categories to which Thomas High School belongs.
+2. 
+3.In the analysis of the percentages of the schools by math and reading scores by grade, the position of Thomas High School was compromised because it lost its position among the best evaluated schools in the 9th grade. The school's 10th grade to 12th grade percentages did not change.
+4. In the school summary, Thomas High School dropped in the Overall Passing percentage category from 90.94% to 90.63% and in the Passing Reading Percentage from 97.30% to 97.01%.
+ 
