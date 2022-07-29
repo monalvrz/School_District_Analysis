@@ -136,6 +136,6 @@ Following the review of the information presented previously, here is a summary 
 1. In the analyses by school type, school size, and school spending, there were no drastic changes in the percentages of the categories to which Thomas High School belongs.
 2. Although it is interesting to identify a certain increase in the percentages of Thomas High School in the item related to reading, which could indicate that removing the 9th grade grades removed some of the lower grades obtained by the students and therefore increased the percentage thanks to it.
 Scores by school spending in Average Reading Score, 2. Scores by school size in Average Reading Score, and 3. Scores by school type in Average Reading Score.
-3.In the analysis of the percentages of the schools by math and reading scores by grade, the position of Thomas High School was compromised because it lost its position among the best evaluated schools in the 9th grade. The school's 10th grade to 12th grade percentages did not change.
+3. In the analysis of the percentages of the schools by math and reading scores by grade, the position of Thomas High School was compromised because it lost its position among the best evaluated schools in the 9th grade. The school's 10th grade to 12th grade percentages did not change.
 4. In the school summary, Thomas High School dropped in the Overall Passing percentage category from 90.94% to 90.63% and in the Passing Reading Percentage from 97.30% to 97.01%.
  
