@@ -45,11 +45,17 @@ _Updated Data Base_
 The substitution of math and reading scores for ninth graders affected Thomas High School's scores relative to the other schools. The scores that varied were: First in the BLA category the percentage decreased 0.06%. While in the average reading score category it increased 0.05%. In the % passing math category the percentage dropped 0.09% and in the % passing reading category it dropped 0.029%, while in the %overall passing category it decreased 0.31%.
 
 With the updated information these are the top three high schools in each category:
+
     - Average Math Score: Pena High School 83.83%, Holden High School 83.80% and Wright High School 83.97%
+    
     - Average Reading Score: Pena High School 84.04%, Wilson High School 83.98% and Cabrera High School 83.97%
+    
     - % Passing Math: Pena High Shchool 94.13%, Cabrera High School 94.13% and a tie between Wilson High School 93.86% and Shleton High School          93.86%
-    - % Passing Reading: Griffin High School 97.13%, Cabrera High School 97.03% and Thomas High School 97.01%    
+    
+    - % Passing Reading: Griffin High School 97.13%, Cabrera High School 97.03% and Thomas High School 97.01% 
+    
     - % Overall Passing: Cabrera High School 91.33%, Griffin High School 90.59% and Pena High School 90.54%
+    
     
 In the original database Thomas High School was only among the top schools in the Overall Passing category. After the update of the data, its Overall Passing percentage dropped and its %Passing reading increased. 
 
@@ -126,3 +132,8 @@ _Updated Data Base_
 ## Summary
 
 Following the review of the information presented previously, here is a summary of four changes in the school district's updated analysis after reading and math scores for ninth grade at Thomas High School have been replaced by NaNs.
+
+1. d
+2. d
+3. d
+4. d
